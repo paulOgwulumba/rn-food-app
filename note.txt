@@ -1,0 +1,6 @@
+Information per restaurant to display on home page:
+restaurant name
+restaurant image
+Restaurant stars
+Restaurant review count
+
