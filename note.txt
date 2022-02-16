@@ -4,7 +4,7 @@ restaurant image
 Restaurant stars
 Restaurant review count
 
-React Navigator Options:
+React Navigation Options:
 - Drawer Navigator
 - BottomTabNavigator
 - StackNavigator
